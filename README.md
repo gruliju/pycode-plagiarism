@@ -1,4 +1,4 @@
-# pycode_plagiarism
+# pycode-plagiarism
 
 # Оценка похожести программ Python
 
